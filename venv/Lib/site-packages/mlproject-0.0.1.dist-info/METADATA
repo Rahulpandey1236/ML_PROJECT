@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: mlproject
+Version: 0.0.1
+Summary: My ML project
+Author: Rahul pandey
+Author-email: Rahul Pandey <your_email@example.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Dynamic: author
