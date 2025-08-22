@@ -3,5 +3,5 @@ pandas
 seaborn
 matplotlib
 scikit-learn
-catboost
+dill
 #-e .
